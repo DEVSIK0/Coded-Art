@@ -10,8 +10,9 @@ uniform vec2 u_res;
 
 void mainImage(out vec4 fragColor, in vec2 fragCoord)
 {
-    
+    // ...
 }
+
 
 void main() {
     vec4 fragColor;
